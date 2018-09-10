@@ -1,0 +1,9 @@
+python==3.5.2
+pyOpenSSL==17.3.0
+criptography==2.1.1
+pycrypto==2.6.1
+pyjks==17.1.0
+requests==2.9.1
+PyKCS11==1.4.4
+python-pkcs11==0.4.0
+asn1crypto==0.23.0
